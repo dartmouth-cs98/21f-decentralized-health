@@ -19,11 +19,11 @@ TODO: how to deploy the project
 
 ## Authors
 
-Gabe Kotsonis, \[role]
-Kevin Cai, \[role]
-Tanvir Islam, \[role]
-Elorm Coch, \[role]
-Chubuzo Chiwike, \[role]
-Scott Crawshaw, \[role]
+Gabe Kotsonis, \[role]\
+Kevin Cai, \[role]\
+Tanvir Islam, \[role]\
+Elorm Coch, \[role]\
+Chubuzo Chiwike, \[role]\
+Scott Crawshaw, \[role]\
 
 ## Acknowledgments
