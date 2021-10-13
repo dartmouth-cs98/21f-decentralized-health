@@ -24,6 +24,6 @@ Kevin Cai, \[role]\
 Tanvir Islam, \[role]\
 Elorm Coch, \[role]\
 Chubuzo Chiwike, \[role]\
-Scott Crawshaw, \[role]\
+Scott Crawshaw, \[role]
 
 ## Acknowledgments
