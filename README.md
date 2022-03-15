@@ -4,9 +4,9 @@
 
 Med3.0 is a decentralized service for the storage and retrieval of medical records. To learn more, visit our various repos, which are linked below.  
   
-https://github.com/dartmouth-cs98/decentralized-health-blockchain  
 https://github.com/dartmouth-cs98/decentralized-health-frontend  
-https://github.com/dartmouth-cs98/decentralized-health-backend
+https://github.com/dartmouth-cs98/decentralized-health-blockchain  
+https://github.com/dartmouth-cs98/decentralized-health-backend  
 
 ## Authors
 
